@@ -9,4 +9,13 @@ public class Calculator {
     }
 
     // More methods to be added by students in different branches
+
+    public double division (double a, double b){
+        return a / b;
+    }
+
+    
+    public double Multi (double a, double b){
+        return a * b;
+    }
 }
